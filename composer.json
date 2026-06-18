@@ -8,7 +8,7 @@
             "name": "Rik Meijer"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
     "scripts": {
         "post-create-project-cmd": [
