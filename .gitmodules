@@ -1,0 +1,54 @@
+[submodule "nip-47"]
+	path = nip-47
+	url = git@github.com:nostriphant/nip-47.git
+[submodule "nip-01"]
+	path = nip-01
+	url = git@github.com:nostriphant/nip-01.git
+[submodule "nip-44"]
+	path = nip-44
+	url = git@github.com:nostriphant/nip-44.git
+[submodule "http"]
+	path = http
+	url = git@github.com:nostriphant/http.git
+[submodule "peony"]
+	path = peony
+	url = git@github.com:nostriphant/peony.git
+[submodule "functional"]
+	path = functional
+	url = git@github.com:nostriphant/functional.git
+[submodule "blossom"]
+	path = blossom
+	url = git@github.com:nostriphant/blossom.git
+[submodule "client"]
+	path = client
+	url = git@github.com:nostriphant/client.git
+[submodule "transpher"]
+	path = transpher
+	url = git@github.com:nostriphant/transpher.git
+[submodule "relay"]
+	path = relay
+	url = git@github.com:nostriphant/relay.git
+[submodule "nostripub"]
+	path = nostripub
+	url = git@github.com:nostriphant/nostripub.git
+[submodule "nostriphant.github.io"]
+	path = nostriphant.github.io
+	url = git@github.com:nostriphant/nostriphant.github.io.git
+[submodule "nip-17"]
+	path = nip-17
+	url = git@github.com:nostriphant/nip-17.git
+[submodule ".github"]
+	path = .github
+	url = git@github.com:nostriphant/.github.git
+[submodule "nip-59"]
+	path = nip-59
+	url = git@github.com:nostriphant/nip-59.git
+[submodule "stores"]
+	path = stores
+	url = git@github.com:nostriphant/stores.git
+[submodule "nip-19"]
+	path = nip-19
+	url = git@github.com:nostriphant/nip-19.git
+[submodule "noxtr-certificate-requests"]
+	path = noxtr-certificate-requests
+	url = git@github.com:nostriphant/noxtr-certificate-requests.git
