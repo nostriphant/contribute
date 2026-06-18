@@ -15,5 +15,10 @@
 	    "git submodule update",
             "@php scripts/createme.php"
         ]
+    },
+    "config": {
+        "preferred-install": {
+            "nostriphant/contribute": "source"
+        }
     }
 }
