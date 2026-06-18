@@ -1,0 +1,18 @@
+{
+    "name": "nostriphant/contribute",
+    "description": "Starting point for contributing to our projects",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rik Meijer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "scripts": {
+        "post-create-project-cmd": [
+            "@php scripts/createme.php",
+        ],
+    },
+}
